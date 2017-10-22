@@ -23,17 +23,17 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Coffeescript
 - [ ] Common-lisp
 - [x] Cpp
-- [ ] Csharp
+- [x] Csharp
 - [ ] Cshell
 - [ ] CSS
 - [ ] Dart
 - [ ] D
 - [ ] Ecl
 - [ ] Erlang
-- [ ] Fortran
+- [x] Fortran
 - [ ] Fsharp
-- [ ] Go
-- [ ] Haskell
+- [x] Go
+- [x] Haskell
 - [x] Java
 - [x] Javascript
 - [x] Kotlin
@@ -41,12 +41,12 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Livescript
 - [ ] Logo
 - [ ] Mathematica
-- [ ] Matlab
+- [x] Matlab
 - [ ] Modula-2
 - [ ] Objective-c
 - [ ] Pascal
 - [ ] Perl
-- [ ] Php
+- [x] Php
 - [ ] Pl_sql
 - [ ] Postscript
 - [ ] Powershell
@@ -54,7 +54,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Qbasic
 - [ ] Racket
 - [ ] R
-- [ ] Ruby
+- [x] Ruby
 - [ ] Rust
 - [ ] Scala
 - [ ] Scheme
