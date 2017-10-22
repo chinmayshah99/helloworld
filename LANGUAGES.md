@@ -23,12 +23,12 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Cobol
 - [x] Coffeescript
 - [x] Common-lisp
-- [x] Cpp
+- [x] C++
 - [x] Csharp
 - [ ] Cshell
 - [x] CSS
 - [ ] Dart
-- [ ] D
+- [x] D
 - [ ] Ecl
 - [x] Elixir
 - [x] Erlang
@@ -50,7 +50,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Objective-c
 - [x] Pascal
 - [x] Perl
-- [x] Php
+- [x] PHP
 - [ ] Pl_sql
 - [ ] Postscript
 - [ ] Powershell
@@ -65,7 +65,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Shellcode
 - [x] Shell
 - [ ] Smalltalk
-- [ ] SQL
+- [x] SQL
 - [ ] Swift
 - [ ] Visual-basic
 - [ ] Whitespace
