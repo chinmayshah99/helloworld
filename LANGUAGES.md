@@ -20,16 +20,17 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Casiobasic
 - [x] C
 - [ ] Clojure
-- [ ] Cobol
-- [ ] Coffeescript
-- [ ] Common-lisp
+- [x] Cobol
+- [x] Coffeescript
+- [x] Common-lisp
 - [x] Cpp
 - [x] Csharp
 - [ ] Cshell
-- [ ] CSS
+- [x] CSS
 - [ ] Dart
 - [ ] D
 - [ ] Ecl
+- [x] Elixir
 - [ ] Erlang
 - [x] Fortran
 - [ ] Fsharp
@@ -37,6 +38,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Haskell
 - [x] Java
 - [x] Javascript
+- [x] Julia
 - [x] Kotlin
 - [ ] Latex
 - [ ] Livescript
@@ -46,7 +48,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Matlab
 - [ ] Modula-2
 - [ ] Objective-c
-- [ ] Pascal
+- [x] Pascal
 - [x] Perl
 - [x] Php
 - [ ] Pl_sql
@@ -55,10 +57,10 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Python
 - [ ] Qbasic
 - [ ] Racket
-- [ ] R
+- [x] R
 - [x] Ruby
 - [ ] Rust
-- [ ] Scala
+- [x] Scala
 - [ ] Scheme
 - [ ] Shellcode
 - [x] Shell
