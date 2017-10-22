@@ -58,8 +58,8 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Racket
 - [ ] R
 - [x] Ruby
-- [x] Rust
-- [ ] Scala
+- [ ] Rust
+- [x] Scala
 - [ ] Scheme
 - [ ] Shellcode
 - [x] Shell
