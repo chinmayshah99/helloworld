@@ -26,7 +26,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Cpp
 - [x] Csharp
 - [ ] Cshell
-- [ ] CSS
+- [x] CSS
 - [ ] Dart
 - [ ] D
 - [ ] Ecl
