@@ -21,7 +21,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] C
 - [ ] Clojure
 - [ ] Cobol
-- [ ] Coffeescript
+- [x] Coffeescript
 - [x] Common-lisp
 - [x] Cpp
 - [x] Csharp
