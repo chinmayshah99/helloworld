@@ -35,8 +35,8 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Go
 - [ ] Haskell
 - [x] Java
-- [ ] Javascript
-- [ ] Kotlin
+- [x] Javascript
+- [x] Kotlin
 - [ ] Latex
 - [ ] Livescript
 - [ ] Logo
