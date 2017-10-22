@@ -37,6 +37,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Haskell
 - [x] Java
 - [x] Javascript
+- [x] Julia
 - [x] Kotlin
 - [ ] Latex
 - [ ] Livescript
