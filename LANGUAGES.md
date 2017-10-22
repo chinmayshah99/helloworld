@@ -65,6 +65,6 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Smalltalk
 - [ ] SQL
 - [ ] Swift
-- [ ] Visual-basic
+- [x] Visual-basic
 - [ ] Whitespace
 - [ ] Zimbu
