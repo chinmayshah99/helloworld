@@ -31,7 +31,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] D
 - [ ] Ecl
 - [x] Elixir
-- [ ] Erlang
+- [x] Erlang
 - [x] Fortran
 - [ ] Fsharp
 - [x] Go
