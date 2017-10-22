@@ -49,7 +49,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Modula-2
 - [ ] Objective-c
 - [x] Pascal
-- [ ] Perl
+- [x] Perl
 - [x] Php
 - [ ] Pl_sql
 - [ ] Postscript
