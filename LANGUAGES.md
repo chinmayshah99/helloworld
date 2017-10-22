@@ -29,6 +29,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Dart
 - [ ] D
 - [ ] Ecl
+- [ ] Elixir
 - [ ] Erlang
 - [ ] Fortran
 - [ ] Fsharp
