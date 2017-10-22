@@ -1,0 +1,69 @@
+List of languages. Pick one you like and open a PR. Make sure you've read [CONTRIBUTING.md]
+
+You can also request a new language to be added to the list, just make a PR with appropiate files.
+
+- [ ] Abap
+- [ ] Ada
+- [ ] Adventure_game_studio_script
+- [ ] Algol
+- [ ] Amiga_e
+- [ ] Apl
+- [ ] Applescript
+- [ ] Arc
+- [ ] As3
+- [ ] Autoit
+- [ ] Awk
+- [ ] Basic
+- [ ] Batch
+- [ ] Brainfuck
+- [ ] Casiobasic
+- [x] C
+- [ ] Clojure
+- [ ] Cobol
+- [ ] Coffeescript
+- [ ] Common-lisp
+- [x] Cpp
+- [ ] Csharp
+- [ ] Cshell
+- [ ] CSS
+- [ ] Dart
+- [ ] D
+- [ ] Ecl
+- [ ] Erlang
+- [ ] Fortran
+- [ ] Fsharp
+- [ ] Go
+- [ ] Haskell
+- [x] Java
+- [ ] Javascript
+- [ ] Kotlin
+- [ ] Latex
+- [ ] Livescript
+- [ ] Logo
+- [ ] Mathematica
+- [ ] Matlab
+- [ ] Modula-2
+- [ ] Objective-c
+- [ ] Pascal
+- [ ] Perl
+- [ ] Php
+- [ ] Pl_sql
+- [ ] Postscript
+- [ ] Powershell
+- [x] Python
+- [ ] Qbasic
+- [ ] Racket
+- [ ] R
+- [ ] Ruby
+- [ ] Rust
+- [ ] Scala
+- [ ] Scheme
+- [ ] Shellcode
+- [ ] Shell
+- [ ] Smalltalk
+- [ ] SQL
+- [ ] Swift
+- [ ] Visual-basic
+- [ ] Whitespace
+- [ ] Zimbu
+

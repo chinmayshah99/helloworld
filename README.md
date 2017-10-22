@@ -40,9 +40,8 @@ git push origin branch-name
 Add a `xx/hello.xx` file to the `root` directory in any language of your choice! Here is an example:
 
 ```
-// LANGUAGE: Python
-// AUTHOR: Chinmay Shah
-// GITHUB: https://github.com/chinmayshah99
+# LANGUAGE: Python
+# AUTHOR: Chinmay Shah
 
 print('Hello, World!')
 ```
