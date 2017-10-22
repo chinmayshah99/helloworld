@@ -1,0 +1,3 @@
+CREATE PROCEDURE HelloWorld AS
+PRINT 'Hello, World'
+RETURN (0)
