@@ -15,7 +15,8 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Awk
 - [ ] Basic
 - [ ] Batch
-- [ ] Brainfuck
+- [x] Befungee
+- [x] Brainfuck
 - [ ] Casiobasic
 - [x] C
 - [ ] Clojure
