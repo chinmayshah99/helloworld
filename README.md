@@ -48,6 +48,8 @@ print('Hello, World!')
 
 Name the file `hello.xx`. example , `hello.py` or `hello.c` and save it as `python/hello.py` or `c/hello.c`.
 
+*NOTE:* The folder name should be strictly in __lower__ case
+
 
 ## Reference links
 
