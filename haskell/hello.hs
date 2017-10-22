@@ -1,2 +1,2 @@
 helloHaskell :: IO ()
-helloHaskell = putStrLn ("Hello World, this is Haskell speaking!")
+helloHaskell = putStrLn ("hello world")
