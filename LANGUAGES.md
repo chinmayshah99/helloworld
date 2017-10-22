@@ -20,7 +20,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Casiobasic
 - [x] C
 - [ ] Clojure
-- [ ] Cobol
+- [x] Cobol
 - [ ] Coffeescript
 - [x] Common-lisp
 - [x] Cpp
