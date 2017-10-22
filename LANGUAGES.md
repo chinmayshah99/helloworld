@@ -15,7 +15,8 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Awk
 - [ ] Basic
 - [ ] Batch
-- [ ] Brainfuck
+- [x] Befungee
+- [x] Brainfuck
 - [ ] Casiobasic
 - [x] C
 - [ ] Clojure
@@ -40,6 +41,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Latex
 - [ ] Livescript
 - [ ] Logo
+- [x] Lua
 - [ ] Mathematica
 - [x] Matlab
 - [ ] Modula-2
@@ -66,4 +68,3 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Visual-basic
 - [ ] Whitespace
 - [ ] Zimbu
-
