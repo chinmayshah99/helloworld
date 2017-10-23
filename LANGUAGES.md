@@ -48,6 +48,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Lua
 - [ ] Mathematica
 - [x] Matlab
+- [x] MIPS Assembly
 - [ ] Modula-2
 - [ ] Objective-c
 - [x] Pascal
