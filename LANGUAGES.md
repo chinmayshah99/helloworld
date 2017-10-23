@@ -20,7 +20,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Brainfuck
 - [ ] Casiobasic
 - [x] C
-- [ ] Clojure
+- [x] Clojure
 - [x] Cobol
 - [x] Coffeescript
 - [x] Common-lisp
