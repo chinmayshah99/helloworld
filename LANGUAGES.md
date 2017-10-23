@@ -57,7 +57,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Postscript
 - [X] Powershell
 - [x] Python
-- [ ] Qbasic
+- [x] Qbasic
 - [ ] Racket
 - [x] R
 - [x] Ruby
