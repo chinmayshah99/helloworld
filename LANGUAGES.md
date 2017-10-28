@@ -3,13 +3,14 @@ List of languages. Pick one you like and open a PR.
 You can also request a new language to be added to the list, just make a PR with appropiate files.
 
 - [ ] Abap
-- [ ] Ada
+- [x] Ada
 - [ ] Adventure_game_studio_script
 - [ ] Algol
 - [ ] Amiga_e
 - [ ] Apl
 - [ ] Applescript
 - [ ] Arc
+- [x] ArnoldC
 - [ ] As3
 - [ ] Autoit
 - [ ] Awk
@@ -19,16 +20,16 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Brainfuck
 - [ ] Casiobasic
 - [x] C
-- [ ] Clojure
+- [x] Clojure
 - [x] Cobol
 - [x] Coffeescript
 - [x] Common-lisp
-- [x] Cpp
+- [x] C++
 - [x] Csharp
 - [x] Cshell
 - [x] CSS
 - [ ] Dart
-- [ ] D
+- [x] D
 - [ ] Ecl
 - [x] Elixir
 - [x] Erlang
@@ -40,33 +41,35 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Javascript
 - [x] Julia
 - [x] Kotlin
-- [ ] Latex
+- [x] Latex
+- [x] Lisp
 - [ ] Livescript
 - [ ] Logo
 - [x] Lua
 - [ ] Mathematica
 - [x] Matlab
+- [x] MIPS Assembly
 - [ ] Modula-2
 - [ ] Objective-c
 - [x] Pascal
 - [x] Perl
-- [x] Php
+- [x] PHP
 - [ ] Pl_sql
 - [ ] Postscript
-- [ ] Powershell
+- [X] Powershell
 - [x] Python
-- [ ] Qbasic
+- [x] Qbasic
 - [ ] Racket
 - [x] R
 - [x] Ruby
-- [ ] Rust
+- [x] Rust
 - [x] Scala
 - [ ] Scheme
 - [ ] Shellcode
 - [x] Shell
 - [ ] Smalltalk
-- [ ] SQL
+- [x] SQL
 - [x] Swift
-- [ ] Visual-basic
+- [x] Visual-basic
 - [ ] Whitespace
 - [ ] Zimbu
