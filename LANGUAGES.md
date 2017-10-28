@@ -26,7 +26,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Common-lisp
 - [x] C++
 - [x] Csharp
-- [ ] Cshell
+- [x] Cshell
 - [x] CSS
 - [ ] Dart
 - [x] D
@@ -69,7 +69,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Shell
 - [ ] Smalltalk
 - [x] SQL
-- [ ] Swift
+- [x] Swift
 - [x] Visual-basic
 - [ ] Whitespace
 - [ ] Zimbu
