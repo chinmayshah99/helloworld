@@ -12,7 +12,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Arc
 - [ ] As3
 - [ ] Autoit
-- [ ] Awk
+- [x] Awk
 - [ ] Basic
 - [ ] Batch
 - [x] Befungee
