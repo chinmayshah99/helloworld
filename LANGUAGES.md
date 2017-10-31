@@ -7,7 +7,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Adventure_game_studio_script
 - [ ] Algol
 - [ ] Amiga_e
-- [ ] Apl
+- [x] Apl
 - [ ] Applescript
 - [ ] Arc
 - [x] ArnoldC
