@@ -5,7 +5,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [x] Abap
 - [x] Ada
 - [ ] Adventure_game_studio_script
-- [ ] Algol
+- [x] Algol
 - [ ] Amiga_e
 - [x] Apl
 - [ ] Applescript
