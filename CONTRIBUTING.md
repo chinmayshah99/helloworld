@@ -48,6 +48,7 @@ Name the file `hello.xx`. example , `hello.py` or `hello.c` and save it as `pyth
 *NOTE:*<br/>
 The folder name should be strictly in __lower__ case<br/>
 The source file should be compilable (in the case of compiled languages) into an executable<br/>
+Make sure you update the LANGUAGES.md file<br/>
 
 
 ## Reference links
