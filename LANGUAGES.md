@@ -8,7 +8,7 @@ You can also request a new language to be added to the list, just make a PR with
 - [ ] Algol
 - [ ] Amiga_e
 - [ ] Apl
-- [ ] Applescript
+- [x] Applescript
 - [ ] Arc
 - [x] ArnoldC
 - [ ] As3
